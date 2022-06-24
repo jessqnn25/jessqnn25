@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jéssica Novaes
 - 👀 Program Development in progress
-- 🌱 HTMLL, JAVA and PHYTON
+- 🌱 learning HTMLL, JAVA and PYTHON
 - 📫 jessicaqnovaes@gmail.com
 
 <!---
