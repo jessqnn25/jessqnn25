@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jéssica Novaes
 - 👀 Program Development in progress
-- 🌱 learning HTMLL, JAVA and PYTHON
+- 🌱 learning C#, MYSQL POSTGRES E XAMPP(MYSQL +APACHE) e PHYTON
 - 📫 jessicaqnovaes@gmail.com
 
 <!---
