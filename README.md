@@ -7,7 +7,7 @@
   
   <p align="center">
     Sou Estudante de Análise e Desenvolvimento de sistemas, estou no 2º Semestre com previsão de formatura em Agosto/2024,
-    Estudo a linguagem C# e estou aprendendo a criar conexões com o banco de dados, atualmente sei o básico da programação em C#, criação do banco de dados no Postgres e no XAMPP(Apache+MySql), utilização dos comandos básicos de SELECT, INSERT, DROP E UPDATE. Gosto muito de adquirir conhecimento em tecnologia e coloca-los em prática. Hoje o que mais me inspira é trabalhar com Banco de dados e futuramente tenho um sonho de estagiar em Cybersecurity.
+    Estudo a linguagem C# e estou aprendendo a criar conexões com o banco de dados, atualmente sei o básico da programação em C#, criação do banco de dados no Postgres e no XAMPP(Apache+MySql), utilização dos comandos básicos de SELECT, INSERT, DROP E UPDATE. Gosto muito de adquirir conhecimento em tecnologia e coloca-los em prática. Estou focada em aprender HTML, CSS e JavaScript, começando novos projetos. Hoje o que mais me inspira é trabalhar com Banco de dados e criação de sites(front-end) e futuramente tenho um sonho de estagiar em Cybersecurity.
   
 </div>
 
